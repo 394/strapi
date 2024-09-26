@@ -117,7 +117,7 @@
     "@strapi/content-releases": "4.24.0",
     "@strapi/data-transfer": "4.24.0",
     "@strapi/database": "4.24.0",
-    "@strapi/generate-new": "4.24.0",
+    "@strapi/generate-new": "4.25.12",
     "@strapi/generators": "4.24.0",
     "@strapi/logger": "4.24.0",
     "@strapi/pack-up": "4.23.0",
